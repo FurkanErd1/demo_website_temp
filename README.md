@@ -1,7 +1,7 @@
 # demo_website_temp
 
-First Experience with bootstrap 
+I tried to design web interface with html-css-bootstrap
 
-I did this project on Hakan Yalçınkaya's bootstrap lessons.
+I did this project by Hakan Yalçınkaya's bootstrap lessons.
 
 Link : fe-company-demo.netlify.app
